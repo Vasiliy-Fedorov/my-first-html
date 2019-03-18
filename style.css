@@ -8,3 +8,9 @@ p {
 h2 {
     color: #ffffff;
 }
+div {
+    background: fuchsia;
+}
+span {
+    background: white;
+}
